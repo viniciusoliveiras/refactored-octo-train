@@ -1,3 +1,4 @@
+import './tailwind.css';
 interface Props {
     text: string;
 }
